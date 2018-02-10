@@ -51,4 +51,4 @@ and vertical-align: top (You can change it if you need/want).
 
 There are two extra classes included:
 - **pd-fix**: Sets padding to 0, useful when nesting columns (see the demo 4).
-- **container**: Automatically center the elements in the documment.
+- **container**: Automatically center the child elements.
